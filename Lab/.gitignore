@@ -1,3 +1,7 @@
 .vscode
 Lab6/exp*_files/
+Lab7/exp*_files/
+Lab7/exp*_ftp_*/
 *.zip
+
+__pycache__
