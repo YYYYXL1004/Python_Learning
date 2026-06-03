@@ -2,6 +2,11 @@
 Lab6/exp*_files/
 Lab7/exp*_files/
 Lab7/exp*_ftp_*/
+Lab8/exp1_files/
+Lab8/exp2_weather.txt
+Lab8/exp3_baidu_results.txt
+Lab8/exp4_generated_excel
+Lab8/exp4_lab4_data.db
 *.zip
 
 __pycache__
